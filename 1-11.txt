@@ -1,0 +1,5 @@
+How would you test a word count program?
+- I would create a text file with many combinations of tabs, spaces and newlines
+
+What kind of inputs are most likely to uncover bugs if there are any?
+- Very long inputs, formatting at the end of the line and not followed by any characters or words, input in different languages?
